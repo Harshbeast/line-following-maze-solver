@@ -112,12 +112,16 @@ This Arduino-based robot solves black line mazes using 5 IR sensors, N20 encoder
 | On White         | ~800–1023 |
 | On Black         | ~200–600  |
 
-Set:
+
+
+![WhatsApp Image 2025-04-09 at 21 19 30_a9c72892](https://github.com/user-attachments/assets/4722271a-eaa6-4cbc-9def-9fb60c8c6f84)
+
+Set:![WhatsApp Image 2025-04-09 at 21 19 30_2037f9f1](https://github.com/user-attachments/assets/72564f42-e094-4188-81f6-8c50e0a3c141)
+
 ```cpp
 const int THRESHOLD = 660;
 
 
-![WhatsApp Image 2025-04-09 at 21 19 30_2037f9f1](https://github.com/user-attachments/assets/7c7a3233-22b9-4c2c-9770-a948f![WhatsApp Image 2025-04-09 at 21 19 30_a9c72892](https://github.com/user-attachments/assets/cbbf286f-d12a-4c9e-9474-4b4f67b86a93)
-7ecb2e6)
+
 
 
