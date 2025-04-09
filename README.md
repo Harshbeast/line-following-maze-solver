@@ -116,7 +116,8 @@ Set:
 ```cpp
 const int THRESHOLD = 660;
 
-![WhatsApp Image 2025-04-09 at 21 19 30_6dd8c1ae](https://github.com/user-attachments/assets/ce417327-6160-4747-bcf8-7214deb1d1ea)
-![WhatsApp Image 2025-04-09 at 21 19 30_4f1b069d](https://github.com/user-attachments/assets/dda82aa4-b60c-478e-bec8-c804a4827d7a)
+
+![WhatsApp Image 2025-04-09 at 21 19 30_2037f9f1](https://github.com/user-attachments/assets/7c7a3233-22b9-4c2c-9770-a948f![WhatsApp Image 2025-04-09 at 21 19 30_a9c72892](https://github.com/user-attachments/assets/cbbf286f-d12a-4c9e-9474-4b4f67b86a93)
+7ecb2e6)
 
 
